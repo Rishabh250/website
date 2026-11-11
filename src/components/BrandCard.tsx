@@ -14,9 +14,9 @@ export default function BrandCard({ brand }: { brand: Brand }) {
   return (
     <Link
       href={`/brands/${brand.slug}`}
-      className="group flex h-full cursor-pointer flex-col gap-4 rounded-xl border border-border bg-card p-6 transition-[transform,box-shadow,border-color] duration-200 hover:-translate-y-1 hover:border-accent hover:shadow-lg focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary"
+      className="group flex h-full min-w-0 cursor-pointer flex-col gap-4 rounded-xl border border-border bg-card p-4 sm:p-6 transition-[transform,box-shadow,border-color] duration-200 hover:-translate-y-1 hover:border-accent hover:shadow-lg focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary"
     >
-      <div className="flex items-center gap-4">
+      <div className="flex min-w-0 flex-col items-start gap-3 sm:flex-row sm:items-center sm:gap-4">
         {brand.logo ? (
           <Image
             src={brand.logo}
@@ -33,7 +33,7 @@ export default function BrandCard({ brand }: { brand: Brand }) {
             {initials(brand.name)}
           </span>
         )}
-        <h3 className="font-heading text-xl leading-tight text-foreground">{brand.name}</h3>
+        <h3 className="font-heading min-w-0 text-base leading-tight text-foreground [overflow-wrap:anywhere] sm:text-xl">{brand.name}</h3>
       </div>
       {brand.tagline && <p className="text-sm text-muted-foreground">{brand.tagline}</p>}
       {cats.length > 0 && (

@@ -1,0 +1,450 @@
+- generic [active] [ref=f42e1]:
+  - link "Skip to content" [ref=f42e2] [cursor=pointer]:
+    - /url: "#main"
+  - generic [ref=f42e4]:
+    - paragraph [ref=f42e5]: Gurugram showroom
+    - link "+91 98765 43210" [ref=f42e6] [cursor=pointer]:
+      - /url: tel:+919876543210
+  - banner [ref=f42e9]:
+    - generic [ref=f42e10]:
+      - link "Comfort Nest Interiors" [ref=f42e11] [cursor=pointer]:
+        - /url: /
+      - generic [ref=f42e12]:
+        - link "Call" [ref=f42e13] [cursor=pointer]:
+          - /url: tel:+919876543210
+        - group [ref=f42e16]:
+          - generic "Menu" [ref=f42e17] [cursor=pointer]
+  - main [ref=f42e19]:
+    - generic [ref=f42e21]:
+      - generic [ref=f42e22]:
+        - paragraph [ref=f42e23]: Comfort Nest Interiors
+        - heading "Plywood, laminates & veneers for every home interior" [level=1] [ref=f42e24]
+        - paragraph [ref=f42e25]: Comfort Nest Interiors stocks plywood, blockboard, laminates, veneers and louvers from leading brands, with quotes for homes, contractors and projects.
+        - generic [ref=f42e26]:
+          - link "Get a quote" [ref=f42e27] [cursor=pointer]:
+            - /url: /contact
+          - link "Call" [ref=f42e30] [cursor=pointer]:
+            - /url: tel:+919876543210
+          - link "WhatsApp us (opens in new tab)" [ref=f42e33] [cursor=pointer]:
+            - /url: https://wa.me/919876543210?text=Hi%2C%20I'd%20like%20a%20quote%20for%20plywood%2C%20laminates%20and%20other%20interior%20materials.
+            - text: WhatsApp
+        - generic [ref=f42e36]:
+          - paragraph [ref=f42e37]: 7 brands · 14 products · 4 categories
+          - list [ref=f42e38]:
+            - listitem [ref=f42e39]: Brand-authorised stock
+            - listitem [ref=f42e43]: Shade cards in store
+            - listitem [ref=f42e50]: Site delivery
+      - img "Stacked plywood sheets, laminate swatches, wood veneer and louver panels" [ref=f42e56]
+    - generic [ref=f42e58]:
+      - generic [ref=f42e59]:
+        - paragraph [ref=f42e60]: Our brands
+        - heading "Brands we carry" [level=2] [ref=f42e62]
+        - paragraph [ref=f42e63]: Leading plywood, laminate and veneer brands, all available from one dealer.
+      - generic [ref=f42e64]:
+        - link [ref=f42e66] [cursor=pointer]:
+          - /url: /brands/centuryply
+          - generic [ref=f42e67]:
+            - generic [aria-hidden] [ref=f42e68]: CE
+            - heading "CenturyPly" [level=3] [ref=f42e69]
+          - paragraph [ref=f42e70]: Dependable boards for everyday interiors
+          - list "Categories" [ref=f42e71]:
+            - listitem [ref=f42e72]: Plywood & Blockboard
+          - generic [ref=f42e73]:
+            - text: 2 products
+            - generic [aria-hidden] [ref=f42e74]: →
+        - link [ref=f42e76] [cursor=pointer]:
+          - /url: /brands/greenply
+          - generic [ref=f42e77]:
+            - generic [aria-hidden] [ref=f42e78]: GR
+            - heading "Greenply" [level=3] [ref=f42e79]
+          - paragraph [ref=f42e80]: Boards chosen for the job
+          - list "Categories" [ref=f42e81]:
+            - listitem [ref=f42e82]: Plywood & Blockboard
+          - generic [ref=f42e83]:
+            - text: 2 products
+            - generic [aria-hidden] [ref=f42e84]: →
+        - link [ref=f42e86] [cursor=pointer]:
+          - /url: /brands/greenlam
+          - generic [ref=f42e87]:
+            - generic [aria-hidden] [ref=f42e88]: GR
+            - heading "Greenlam" [level=3] [ref=f42e89]
+          - paragraph [ref=f42e90]: Surfaces with a finish for every room
+          - list "Categories" [ref=f42e91]:
+            - listitem [ref=f42e92]: Laminates / Mica
+          - generic [ref=f42e93]:
+            - text: 2 products
+            - generic [aria-hidden] [ref=f42e94]: →
+        - link [ref=f42e96] [cursor=pointer]:
+          - /url: /brands/merino
+          - generic [ref=f42e97]:
+            - generic [aria-hidden] [ref=f42e98]: ME
+            - heading "Merino" [level=3] [ref=f42e99]
+          - paragraph [ref=f42e100]: Colour and texture, made easy
+          - list "Categories" [ref=f42e101]:
+            - listitem [ref=f42e102]: Laminates / Mica
+          - generic [ref=f42e103]:
+            - text: 2 products
+            - generic [aria-hidden] [ref=f42e104]: →
+        - link [ref=f42e106] [cursor=pointer]:
+          - /url: /brands/sunmica
+          - generic [ref=f42e107]:
+            - generic [aria-hidden] [ref=f42e108]: SU
+            - heading "Sunmica" [level=3] [ref=f42e109]
+          - paragraph [ref=f42e110]: Everyday surfaces and wall accents
+          - list "Categories" [ref=f42e111]:
+            - listitem [ref=f42e112]: Laminates / Mica
+            - listitem [ref=f42e113]: Louvers
+          - generic [ref=f42e114]:
+            - text: 2 products
+            - generic [aria-hidden] [ref=f42e115]: →
+        - link [ref=f42e117] [cursor=pointer]:
+          - /url: /brands/royale-touche
+          - generic [ref=f42e118]:
+            - generic [aria-hidden] [ref=f42e119]: RT
+            - heading "Royale Touche" [level=3] [ref=f42e120]
+          - paragraph [ref=f42e121]: Real wood character
+          - list "Categories" [ref=f42e122]:
+            - listitem [ref=f42e123]: Veneers & Panels
+          - generic [ref=f42e124]:
+            - text: 2 products
+            - generic [aria-hidden] [ref=f42e125]: →
+        - link [ref=f42e127] [cursor=pointer]:
+          - /url: /brands/action-tesa
+          - generic [ref=f42e128]:
+            - generic [aria-hidden] [ref=f42e129]: AT
+            - heading "Action TESA" [level=3] [ref=f42e130]
+          - paragraph [ref=f42e131]: Ready-to-fix panels and profiles
+          - list "Categories" [ref=f42e132]:
+            - listitem [ref=f42e133]: Veneers & Panels
+            - listitem [ref=f42e134]: Louvers
+          - generic [ref=f42e135]:
+            - text: 2 products
+            - generic [aria-hidden] [ref=f42e136]: →
+      - paragraph [ref=f42e137]:
+        - link "View all brands" [ref=f42e138] [cursor=pointer]:
+          - /url: /brands
+    - generic [ref=f42e142]:
+      - generic [ref=f42e143]:
+        - paragraph [ref=f42e144]: Shop by material
+        - heading "Material categories" [level=2] [ref=f42e146]
+      - generic [ref=f42e147]:
+        - link [ref=f42e149] [cursor=pointer]:
+          - /url: /categories/plywood-blockboard
+          - generic [ref=f42e152]:
+            - paragraph [ref=f42e153]: 4 products
+            - heading "Plywood & Blockboard" [level=3] [ref=f42e154]
+            - paragraph [ref=f42e158]: Structural boards for carcasses, wardrobes, kitchens and furniture, in BWP, MR and blockboard grades.
+        - link [ref=f42e160] [cursor=pointer]:
+          - /url: /categories/laminates
+          - generic [ref=f42e163]:
+            - paragraph [ref=f42e164]: 5 products
+            - heading "Laminates / Mica" [level=3] [ref=f42e165]
+            - paragraph [ref=f42e169]: Decorative 1 mm laminates in suede, gloss and matte finishes for wardrobes, kitchens and wall panels.
+        - link [ref=f42e171] [cursor=pointer]:
+          - /url: /categories/veneers-panels
+          - generic [ref=f42e174]:
+            - paragraph [ref=f42e175]: 3 products
+            - heading "Veneers & Panels" [level=3] [ref=f42e176]
+            - paragraph [ref=f42e180]: Natural and reconstituted wood veneers and ready decorative panels for a premium timber look.
+        - link [ref=f42e182] [cursor=pointer]:
+          - /url: /categories/louvers
+          - generic [ref=f42e185]:
+            - paragraph [ref=f42e186]: 2 products
+            - heading "Louvers" [level=3] [ref=f42e187]
+            - paragraph [ref=f42e191]: Vertical slat and fluted louver panels in wood and WPC for feature walls, partitions and ceilings.
+    - generic [ref=f42e193]:
+      - generic [ref=f42e194]:
+        - paragraph [ref=f42e195]: Handpicked
+        - heading "Featured products" [level=2] [ref=f42e197]
+      - generic [ref=f42e198]:
+        - 'link "Plywood & Blockboard CenturyPly CenturyPly BWP Plywood Thickness: 12 / 18 / 19 mm Sizes From ₹95 / per sq ft" [ref=f42e200] [cursor=pointer]':
+          - /url: /products/centuryply-bwp-plywood
+          - generic [ref=f42e201]: Plywood & Blockboard
+          - generic [ref=f42e205]:
+            - paragraph [ref=f42e206]: CenturyPly
+            - heading "CenturyPly BWP Plywood" [level=3] [ref=f42e207]
+            - paragraph [ref=f42e208]:
+              - generic [ref=f42e209]: "Thickness:"
+              - text: 12 / 18 / 19 mm
+            - list "Sizes" [ref=f42e210]:
+              - listitem [ref=f42e211]: 12 mm
+              - listitem [ref=f42e212]: 18 mm
+              - listitem [ref=f42e213]: +1 more
+            - paragraph [ref=f42e214]:
+              - text: From ₹95
+              - generic [ref=f42e215]: / per sq ft
+        - 'link "Plywood & Blockboard CenturyPly CenturyPly MR Plywood Thickness: 6 / 12 / 18 mm Sizes From ₹68 / per sq ft" [ref=f42e217] [cursor=pointer]':
+          - /url: /products/centuryply-mr-plywood
+          - generic [ref=f42e218]: Plywood & Blockboard
+          - generic [ref=f42e222]:
+            - paragraph [ref=f42e223]: CenturyPly
+            - heading "CenturyPly MR Plywood" [level=3] [ref=f42e224]
+            - paragraph [ref=f42e225]:
+              - generic [ref=f42e226]: "Thickness:"
+              - text: 6 / 12 / 18 mm
+            - list "Sizes" [ref=f42e227]:
+              - listitem [ref=f42e228]: 6 mm
+              - listitem [ref=f42e229]: 12 mm
+              - listitem [ref=f42e230]: +1 more
+            - paragraph [ref=f42e231]:
+              - text: From ₹68
+              - generic [ref=f42e232]: / per sq ft
+        - 'link "Plywood & Blockboard Greenply Greenply BWP Marine Plywood Thickness: 12 / 18 mm Sizes From ₹102 / per sq ft" [ref=f42e234] [cursor=pointer]':
+          - /url: /products/greenply-bwp-marine-plywood
+          - generic [ref=f42e235]: Plywood & Blockboard
+          - generic [ref=f42e239]:
+            - paragraph [ref=f42e240]: Greenply
+            - heading "Greenply BWP Marine Plywood" [level=3] [ref=f42e241]
+            - paragraph [ref=f42e242]:
+              - generic [ref=f42e243]: "Thickness:"
+              - text: 12 / 18 mm
+            - list "Sizes" [ref=f42e244]:
+              - listitem [ref=f42e245]: 12 mm
+              - listitem [ref=f42e246]: 18 mm
+            - paragraph [ref=f42e247]:
+              - text: From ₹102
+              - generic [ref=f42e248]: / per sq ft
+        - 'link "Plywood & Blockboard Greenply Greenply Flexi Blockboard Thickness: 18 / 25 mm Sizes From ₹72 / per sq ft" [ref=f42e250] [cursor=pointer]':
+          - /url: /products/greenply-flexi-blockboard
+          - generic [ref=f42e251]: Plywood & Blockboard
+          - generic [ref=f42e255]:
+            - paragraph [ref=f42e256]: Greenply
+            - heading "Greenply Flexi Blockboard" [level=3] [ref=f42e257]
+            - paragraph [ref=f42e258]:
+              - generic [ref=f42e259]: "Thickness:"
+              - text: 18 / 25 mm
+            - list "Sizes" [ref=f42e260]:
+              - listitem [ref=f42e261]: 18 mm
+              - listitem [ref=f42e262]: 25 mm
+            - paragraph [ref=f42e263]:
+              - text: From ₹72
+              - generic [ref=f42e264]: / per sq ft
+        - 'link "Laminates / Mica Greenlam Greenlam Suede Laminate Thickness: 1 mm Sizes From ₹1,150 / per sheet" [ref=f42e266] [cursor=pointer]':
+          - /url: /products/greenlam-suede-laminate
+          - generic [ref=f42e267]: Laminates / Mica
+          - generic [ref=f42e271]:
+            - paragraph [ref=f42e272]: Greenlam
+            - heading "Greenlam Suede Laminate" [level=3] [ref=f42e273]
+            - paragraph [ref=f42e274]:
+              - generic [ref=f42e275]: "Thickness:"
+              - text: 1 mm
+            - list "Sizes" [ref=f42e276]:
+              - listitem [ref=f42e277]: 1 mm
+            - paragraph [ref=f42e278]:
+              - text: From ₹1,150
+              - generic [ref=f42e279]: / per sheet
+        - 'link "Laminates / Mica Greenlam Greenlam High Gloss Laminate Thickness: 1 mm Sizes From ₹1,350 / per sheet" [ref=f42e281] [cursor=pointer]':
+          - /url: /products/greenlam-gloss-laminate
+          - generic [ref=f42e282]: Laminates / Mica
+          - generic [ref=f42e286]:
+            - paragraph [ref=f42e287]: Greenlam
+            - heading "Greenlam High Gloss Laminate" [level=3] [ref=f42e288]
+            - paragraph [ref=f42e289]:
+              - generic [ref=f42e290]: "Thickness:"
+              - text: 1 mm
+            - list "Sizes" [ref=f42e291]:
+              - listitem [ref=f42e292]: 1 mm
+            - paragraph [ref=f42e293]:
+              - text: From ₹1,350
+              - generic [ref=f42e294]: / per sheet
+        - 'link "Laminates / Mica Merino Merino Matte Laminate Thickness: 0.8 / 1 mm Sizes From ₹1,050 / per sheet" [ref=f42e296] [cursor=pointer]':
+          - /url: /products/merino-matte-laminate
+          - generic [ref=f42e297]: Laminates / Mica
+          - generic [ref=f42e301]:
+            - paragraph [ref=f42e302]: Merino
+            - heading "Merino Matte Laminate" [level=3] [ref=f42e303]
+            - paragraph [ref=f42e304]:
+              - generic [ref=f42e305]: "Thickness:"
+              - text: 0.8 / 1 mm
+            - list "Sizes" [ref=f42e306]:
+              - listitem [ref=f42e307]: 0.8 mm
+              - listitem [ref=f42e308]: 1 mm
+            - paragraph [ref=f42e309]:
+              - text: From ₹1,050
+              - generic [ref=f42e310]: / per sheet
+        - 'link "Laminates / Mica Merino Merino Acrylic Finish Laminate Thickness: 1 mm Sizes From ₹1,750 / per sheet" [ref=f42e312] [cursor=pointer]':
+          - /url: /products/merino-acrylic-laminate
+          - generic [ref=f42e313]: Laminates / Mica
+          - generic [ref=f42e317]:
+            - paragraph [ref=f42e318]: Merino
+            - heading "Merino Acrylic Finish Laminate" [level=3] [ref=f42e319]
+            - paragraph [ref=f42e320]:
+              - generic [ref=f42e321]: "Thickness:"
+              - text: 1 mm
+            - list "Sizes" [ref=f42e322]:
+              - listitem [ref=f42e323]: 1 mm
+            - paragraph [ref=f42e324]:
+              - text: From ₹1,750
+              - generic [ref=f42e325]: / per sheet
+      - paragraph [ref=f42e326]:
+        - link "View all 14 products" [ref=f42e327] [cursor=pointer]:
+          - /url: /products
+    - generic [ref=f42e331]:
+      - generic [ref=f42e332]:
+        - paragraph [ref=f42e333]: How it works
+        - heading "Plan your project in four steps" [level=2] [ref=f42e334]
+      - list [ref=f42e335]:
+        - listitem [ref=f42e336]:
+          - text: "1"
+          - 'heading "Step 1: Share your requirement" [level=3] [ref=f42e340]':
+            - generic [ref=f42e341]: "Step 1:"
+            - text: Share your requirement
+          - paragraph [ref=f42e342]: Tell us the materials, brands and quantities you need, or just describe the project.
+        - listitem [ref=f42e343]:
+          - text: "2"
+          - 'heading "Step 2: Visit store & pick samples" [level=3] [ref=f42e348]':
+            - generic [ref=f42e349]: "Step 2:"
+            - text: Visit store & pick samples
+          - paragraph [ref=f42e350]: See shade cards and sample sheets in person and choose your finishes.
+        - listitem [ref=f42e351]:
+          - text: "3"
+          - 'heading "Step 3: Get a quote" [level=3] [ref=f42e355]':
+            - generic [ref=f42e356]: "Step 3:"
+            - text: Get a quote
+          - paragraph [ref=f42e357]: Receive a clear quote for your material list, for homes, contractors or projects.
+        - listitem [ref=f42e358]:
+          - text: "4"
+          - 'heading "Step 4: Delivery to site" [level=3] [ref=f42e364]':
+            - generic [ref=f42e365]: "Step 4:"
+            - text: Delivery to site
+          - paragraph [ref=f42e366]: Confirmed materials are delivered to your site so work keeps moving.
+    - generic [ref=f42e368]:
+      - generic [ref=f42e369]:
+        - paragraph [ref=f42e370]: FAQ
+        - heading "Common questions about interior materials" [level=2] [ref=f42e372]
+      - generic [ref=f42e373]:
+        - group [ref=f42e374]:
+          - generic "What is the difference between BWP and MR plywood?" [ref=f42e375] [cursor=pointer]
+        - group [ref=f42e378]:
+          - generic "How do I choose the right laminate thickness?" [ref=f42e379] [cursor=pointer]
+        - group [ref=f42e382]:
+          - generic "Should I choose veneer or laminate?" [ref=f42e383] [cursor=pointer]
+        - group [ref=f42e386]:
+          - generic "Do you supply to contractors and for bulk orders?" [ref=f42e387] [cursor=pointer]
+        - group [ref=f42e390]:
+          - generic "Do you deliver materials to site?" [ref=f42e391] [cursor=pointer]
+        - group [ref=f42e394]:
+          - generic "How can I get a quote?" [ref=f42e395] [cursor=pointer]
+    - generic [ref=f42e399]:
+      - generic [ref=f42e400]:
+        - paragraph [ref=f42e401]: Journal
+        - heading "Latest from the blog" [level=2] [ref=f42e403]
+      - generic [ref=f42e404]:
+        - link [ref=f42e405] [cursor=pointer]:
+          - /url: /blog/veneer-vs-laminate
+          - time [ref=f42e406]: 15 Oct 2026
+          - 'heading "Veneer vs laminate: which finish suits your home" [level=3] [ref=f42e407]'
+          - paragraph [ref=f42e408]: Both can give a handsome finish, but they behave differently. Compare look, cost, care and where each fits best.
+          - generic [ref=f42e409]: Read more
+        - link [ref=f42e412] [cursor=pointer]:
+          - /url: /blog/how-to-choose-laminates-for-kitchen-and-wardrobes
+          - time [ref=f42e413]: 28 Sept 2026
+          - heading "How to choose laminates for kitchens and wardrobes" [level=3] [ref=f42e414]
+          - paragraph [ref=f42e415]: Finish, thickness and placement all matter. A short guide to choosing laminates that look good and last.
+          - generic [ref=f42e416]: Read more
+        - link [ref=f42e419] [cursor=pointer]:
+          - /url: /blog/bwp-vs-mr-plywood
+          - time [ref=f42e420]: 12 Sept 2026
+          - 'heading "BWP vs MR plywood: which to use where" [level=3] [ref=f42e421]'
+          - paragraph [ref=f42e422]: Both are good plywood, but they are built for different conditions. Here is how to pick the right one for each part of your home.
+          - generic [ref=f42e423]: Read more
+    - region "Get in touch" [ref=f42e426]:
+      - generic [ref=f42e427]:
+        - generic [ref=f42e428]:
+          - heading "Planning a project? Get a quote" [level=2] [ref=f42e429]
+          - paragraph [ref=f42e430]: Tell us what you are building and visit our Gurugram store, or send a message for plywood, laminate, veneer and louver options with honest advice.
+        - generic [ref=f42e431]:
+          - link "Call +91 98765 43210" [ref=f42e432] [cursor=pointer]:
+            - /url: tel:+919876543210
+          - link "WhatsApp" [ref=f42e435] [cursor=pointer]:
+            - /url: https://wa.me/919876543210?text=Hi%20Comfort%20Nest%20Interiors%2C%20I%20would%20like%20a%20quote.
+          - link "Get a quote" [ref=f42e438] [cursor=pointer]:
+            - /url: /contact
+  - contentinfo [ref=f42e439]:
+    - generic [ref=f42e441]:
+      - generic [ref=f42e442]:
+        - paragraph [ref=f42e443]: Comfort Nest Interiors
+        - paragraph [ref=f42e444]: Plywood, laminates, veneers and louvers from trusted brands.
+        - generic [ref=f42e445]: Shop 12, Sector 29 Market Road, Gurugram, Haryana 122001
+        - link "+91 98765 43210" [ref=f42e450] [cursor=pointer]:
+          - /url: tel:+919876543210
+        - link "hello@comfortnest-interiors.example" [ref=f42e453] [cursor=pointer]:
+          - /url: mailto:hello@comfortnest-interiors.example
+        - heading "Opening hours" [level=2] [ref=f42e457]
+        - list [ref=f42e461]:
+          - listitem [ref=f42e462]: "Monday-Saturday: 10:00 - 20:00"
+          - listitem [ref=f42e463]: "Sunday: 11:00 - 18:00"
+      - navigation "Footer" [ref=f42e464]:
+        - heading "Explore" [level=2] [ref=f42e465]
+        - list [ref=f42e466]:
+          - listitem [ref=f42e467]:
+            - link "Brands" [ref=f42e468] [cursor=pointer]:
+              - /url: /brands
+          - listitem [ref=f42e469]:
+            - link "Categories" [ref=f42e470] [cursor=pointer]:
+              - /url: /categories
+          - listitem [ref=f42e471]:
+            - link "Products" [ref=f42e472] [cursor=pointer]:
+              - /url: /products
+          - listitem [ref=f42e473]:
+            - link "Blog" [ref=f42e474] [cursor=pointer]:
+              - /url: /blog
+          - listitem [ref=f42e475]:
+            - link "About" [ref=f42e476] [cursor=pointer]:
+              - /url: /about
+          - listitem [ref=f42e477]:
+            - link "Contact" [ref=f42e478] [cursor=pointer]:
+              - /url: /contact
+      - generic [ref=f42e479]:
+        - heading "Categories" [level=2] [ref=f42e480]
+        - list [ref=f42e481]:
+          - listitem [ref=f42e482]:
+            - link "Plywood & Blockboard" [ref=f42e483] [cursor=pointer]:
+              - /url: /categories/plywood-blockboard
+          - listitem [ref=f42e484]:
+            - link "Laminates / Mica" [ref=f42e485] [cursor=pointer]:
+              - /url: /categories/laminates
+          - listitem [ref=f42e486]:
+            - link "Veneers & Panels" [ref=f42e487] [cursor=pointer]:
+              - /url: /categories/veneers-panels
+          - listitem [ref=f42e488]:
+            - link "Louvers" [ref=f42e489] [cursor=pointer]:
+              - /url: /categories/louvers
+      - generic [ref=f42e490]:
+        - heading "Brands" [level=2] [ref=f42e491]
+        - list [ref=f42e492]:
+          - listitem [ref=f42e493]:
+            - link "CenturyPly" [ref=f42e494] [cursor=pointer]:
+              - /url: /brands/centuryply
+          - listitem [ref=f42e495]:
+            - link "Greenply" [ref=f42e496] [cursor=pointer]:
+              - /url: /brands/greenply
+          - listitem [ref=f42e497]:
+            - link "Greenlam" [ref=f42e498] [cursor=pointer]:
+              - /url: /brands/greenlam
+          - listitem [ref=f42e499]:
+            - link "Merino" [ref=f42e500] [cursor=pointer]:
+              - /url: /brands/merino
+          - listitem [ref=f42e501]:
+            - link "Sunmica" [ref=f42e502] [cursor=pointer]:
+              - /url: /brands/sunmica
+          - listitem [ref=f42e503]:
+            - link "Royale Touche" [ref=f42e504] [cursor=pointer]:
+              - /url: /brands/royale-touche
+          - listitem [ref=f42e505]:
+            - link "Action TESA" [ref=f42e506] [cursor=pointer]:
+              - /url: /brands/action-tesa
+        - list [ref=f42e507]:
+          - listitem [ref=f42e508]:
+            - link "instagram" [ref=f42e509] [cursor=pointer]:
+              - /url: https://www.instagram.com/comfortnest.example
+          - listitem [ref=f42e510]:
+            - link "facebook" [ref=f42e511] [cursor=pointer]:
+              - /url: https://www.facebook.com/comfortnest.example
+          - listitem [ref=f42e512]:
+            - link "youtube" [ref=f42e513] [cursor=pointer]:
+              - /url: https://www.youtube.com/@comfortnest-example
+    - generic [ref=f42e514]: © Comfort Nest Interiors. All rights reserved.
+  - link "Chat on WhatsApp" [ref=f42e515] [cursor=pointer]:
+    - /url: https://wa.me/919876543210?text=Hi%20Comfort%20Nest%20Interiors%2C%20I%20have%20an%20enquiry.
+  - alert [ref=f42e518]
