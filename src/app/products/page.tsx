@@ -33,7 +33,7 @@ export default function ProductsPage() {
           </p>
         </div>
       </section>
-      <nav aria-label="Product categories" className="sticky top-0 z-20 border-b border-border bg-background/95 backdrop-blur">
+      <nav aria-label="Product categories" className="z-20 border-b md:sticky md:top-[60px] border-border bg-background/95 backdrop-blur">
         <ul className="mx-auto flex max-w-7xl gap-2 overflow-x-auto px-4 py-3 sm:px-6 lg:px-8">
           {groups.map((g) => (
             <li key={g.category.slug} className="shrink-0">
@@ -52,7 +52,7 @@ export default function ProductsPage() {
           key={g.category.slug}
           id={g.category.slug}
           aria-labelledby={`${g.category.slug}-h`}
-          className={`scroll-mt-20 py-12 md:py-16 ${gi % 2 ? "bg-muted" : "bg-background"}`}
+          className={`scroll-mt-32 py-12 md:py-16 ${gi % 2 ? "bg-muted" : "bg-background"}`}
         >
           <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
             <h2 id={`${g.category.slug}-h`} className="font-heading text-2xl text-foreground md:text-3xl">{g.category.name}</h2>

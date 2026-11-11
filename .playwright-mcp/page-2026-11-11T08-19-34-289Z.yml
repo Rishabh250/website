@@ -1,0 +1,267 @@
+- generic [active] [ref=f4e1]:
+  - link "Skip to content" [ref=f4e2] [cursor=pointer]:
+    - /url: "#main"
+  - generic [ref=f4e4]:
+    - paragraph [ref=f4e5]: Gurugram showroom
+    - link "+91 98765 43210" [ref=f4e6] [cursor=pointer]:
+      - /url: tel:+919876543210
+  - banner [ref=f4e9]:
+    - generic [ref=f4e10]:
+      - link "Comfort Nest Interiors" [ref=f4e11] [cursor=pointer]:
+        - /url: /
+      - generic [ref=f4e12]:
+        - link "Call" [ref=f4e13] [cursor=pointer]:
+          - /url: tel:+919876543210
+        - group [ref=f4e16]:
+          - generic "Menu" [ref=f4e17] [cursor=pointer]
+  - main [ref=f4e19]:
+    - generic [ref=f4e20]:
+      - navigation "Breadcrumb" [ref=f4e21]:
+        - list [ref=f4e22]:
+          - listitem [ref=f4e23]:
+            - link "Home" [ref=f4e24] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f4e27]:
+            - link "Products" [ref=f4e28] [cursor=pointer]:
+              - /url: /products
+          - listitem [ref=f4e31]:
+            - generic [ref=f4e32]: Greenlam Suede Laminate
+      - generic [ref=f4e33]:
+        - generic [ref=f4e34]:
+          - generic [ref=f4e35]:
+            - img "Greenlam Suede Laminate by Greenlam" [ref=f4e38]
+            - list "Brand and category" [ref=f4e39]:
+              - listitem [ref=f4e40]:
+                - link "Greenlam" [ref=f4e41] [cursor=pointer]:
+                  - /url: /brands/greenlam
+              - listitem [ref=f4e42]:
+                - link "Laminates / Mica" [ref=f4e43] [cursor=pointer]:
+                  - /url: /categories/laminates
+          - generic [ref=f4e44]:
+            - paragraph [ref=f4e45]: Greenlam
+            - heading "Greenlam Suede Laminate" [level=1] [ref=f4e46]
+            - paragraph [ref=f4e47]: Suede-finish decorative laminate for wardrobe shutters and living-room units.
+            - generic [ref=f4e48]:
+              - paragraph [ref=f4e49]: Starting price
+              - paragraph [ref=f4e50]:
+                - text: From ₹1,150
+                - generic [ref=f4e51]: / per sheet
+              - paragraph [ref=f4e52]: Prices vary by thickness and stock. Contact us for a quote.
+              - generic [ref=f4e53]:
+                - link "Call us about Greenlam Suede Laminate" [ref=f4e54] [cursor=pointer]:
+                  - /url: tel:+919876543210
+                  - text: Call
+                - link "WhatsApp us about Greenlam Suede Laminate (opens in new tab)" [ref=f4e57] [cursor=pointer]:
+                  - /url: https://wa.me/919876543210?text=Hi%2C%20I'd%20like%20a%20quote%20for%20Greenlam%20Suede%20Laminate.%20Please%20share%20price%20and%20availability.
+                  - text: WhatsApp
+                - link "Email us about Greenlam Suede Laminate" [ref=f4e60] [cursor=pointer]:
+                  - /url: mailto:hello@comfortnest-interiors.example?subject=Enquiry%3A%20Greenlam%20Suede%20Laminate&body=Hi%2C%20I'd%20like%20a%20quote%20for%20Greenlam%20Suede%20Laminate.%20Please%20share%20price%20and%20availability.
+                  - text: Email
+            - generic [ref=f4e64]:
+              - heading "Available sizes / thickness" [level=2] [ref=f4e65]
+              - list [ref=f4e72]:
+                - listitem [ref=f4e73]: 1 mm
+            - generic [ref=f4e74]:
+              - heading "Features" [level=2] [ref=f4e75]
+              - list [ref=f4e76]:
+                - listitem [ref=f4e77]: Soft, low-glare texture
+                - listitem [ref=f4e81]: Resists fingerprints
+        - generic [ref=f4e85]:
+          - heading "Specifications" [level=2] [ref=f4e86]
+          - table "Specifications for Greenlam Suede Laminate" [ref=f4e88]:
+            - caption [ref=f4e89]: Specifications for Greenlam Suede Laminate
+            - rowgroup [ref=f4e90]:
+              - row [ref=f4e91]:
+                - rowheader "Thickness" [ref=f4e92]
+                - cell "1 mm" [ref=f4e93]
+              - row [ref=f4e94]:
+                - rowheader "Finish" [ref=f4e95]
+                - cell "Suede" [ref=f4e96]
+              - row [ref=f4e97]:
+                - rowheader "Sheet size" [ref=f4e98]
+                - cell "8 x 4 ft" [ref=f4e99]
+              - row [ref=f4e100]:
+                - rowheader "Use" [ref=f4e101]
+                - cell "Wardrobes, shutters, panels" [ref=f4e102]
+              - row [ref=f4e103]:
+                - rowheader "Warranty" [ref=f4e104]
+                - cell "As per brand warranty" [ref=f4e105]
+        - list [ref=f4e106]:
+          - listitem [ref=f4e107]:
+            - heading "Warranty and stock" [level=2] [ref=f4e111]
+            - paragraph [ref=f4e112]: Ask us about brand warranty terms and current stock.
+          - listitem [ref=f4e113]:
+            - heading "Help choosing" [level=2] [ref=f4e120]
+            - paragraph [ref=f4e121]: Not sure about thickness or grade? Our team will guide you.
+          - listitem [ref=f4e122]:
+            - heading "Delivery to site" [level=2] [ref=f4e128]
+            - paragraph [ref=f4e129]: Ask us about delivery and bulk or contractor pricing.
+      - generic [ref=f4e132]:
+        - generic [ref=f4e133]:
+          - heading "Related products" [level=2] [ref=f4e134]
+          - paragraph [ref=f4e135]: More from Laminates / Mica.
+        - generic [ref=f4e136]:
+          - 'link "Laminates / Mica Greenlam Greenlam High Gloss Laminate Thickness: 1 mm Sizes From ₹1,350 / per sheet" [ref=f4e137] [cursor=pointer]':
+            - /url: /products/greenlam-gloss-laminate
+            - generic [ref=f4e138]: Laminates / Mica
+            - generic [ref=f4e142]:
+              - paragraph [ref=f4e143]: Greenlam
+              - heading "Greenlam High Gloss Laminate" [level=3] [ref=f4e144]
+              - paragraph [ref=f4e145]:
+                - generic [ref=f4e146]: "Thickness:"
+                - text: 1 mm
+              - list "Sizes" [ref=f4e147]:
+                - listitem [ref=f4e148]: 1 mm
+              - paragraph [ref=f4e149]:
+                - text: From ₹1,350
+                - generic [ref=f4e150]: / per sheet
+          - 'link "Laminates / Mica Merino Merino Matte Laminate Thickness: 0.8 / 1 mm Sizes From ₹1,050 / per sheet" [ref=f4e151] [cursor=pointer]':
+            - /url: /products/merino-matte-laminate
+            - generic [ref=f4e152]: Laminates / Mica
+            - generic [ref=f4e156]:
+              - paragraph [ref=f4e157]: Merino
+              - heading "Merino Matte Laminate" [level=3] [ref=f4e158]
+              - paragraph [ref=f4e159]:
+                - generic [ref=f4e160]: "Thickness:"
+                - text: 0.8 / 1 mm
+              - list "Sizes" [ref=f4e161]:
+                - listitem [ref=f4e162]: 0.8 mm
+                - listitem [ref=f4e163]: 1 mm
+              - paragraph [ref=f4e164]:
+                - text: From ₹1,050
+                - generic [ref=f4e165]: / per sheet
+          - 'link "Laminates / Mica Merino Merino Acrylic Finish Laminate Thickness: 1 mm Sizes From ₹1,750 / per sheet" [ref=f4e166] [cursor=pointer]':
+            - /url: /products/merino-acrylic-laminate
+            - generic [ref=f4e167]: Laminates / Mica
+            - generic [ref=f4e171]:
+              - paragraph [ref=f4e172]: Merino
+              - heading "Merino Acrylic Finish Laminate" [level=3] [ref=f4e173]
+              - paragraph [ref=f4e174]:
+                - generic [ref=f4e175]: "Thickness:"
+                - text: 1 mm
+              - list "Sizes" [ref=f4e176]:
+                - listitem [ref=f4e177]: 1 mm
+              - paragraph [ref=f4e178]:
+                - text: From ₹1,750
+                - generic [ref=f4e179]: / per sheet
+          - 'link "Laminates / Mica Sunmica Sunmica Textured Laminate Thickness: 1 mm Sizes From ₹1,100 / per sheet" [ref=f4e180] [cursor=pointer]':
+            - /url: /products/sunmica-textured-laminate
+            - generic [ref=f4e181]: Laminates / Mica
+            - generic [ref=f4e185]:
+              - paragraph [ref=f4e186]: Sunmica
+              - heading "Sunmica Textured Laminate" [level=3] [ref=f4e187]
+              - paragraph [ref=f4e188]:
+                - generic [ref=f4e189]: "Thickness:"
+                - text: 1 mm
+              - list "Sizes" [ref=f4e190]:
+                - listitem [ref=f4e191]: 1 mm
+              - paragraph [ref=f4e192]:
+                - text: From ₹1,100
+                - generic [ref=f4e193]: / per sheet
+      - region "Get in touch" [ref=f4e194]:
+        - generic [ref=f4e195]:
+          - generic [ref=f4e196]:
+            - heading "Planning a project? Get a quote" [level=2] [ref=f4e197]
+            - paragraph [ref=f4e198]: Tell us what you are building and visit our Gurugram store, or send a message for plywood, laminate, veneer and louver options with honest advice.
+          - generic [ref=f4e199]:
+            - link "Call +91 98765 43210" [ref=f4e200] [cursor=pointer]:
+              - /url: tel:+919876543210
+            - link "WhatsApp" [ref=f4e203] [cursor=pointer]:
+              - /url: https://wa.me/919876543210?text=Hi%20Comfort%20Nest%20Interiors%2C%20I%20would%20like%20a%20quote.
+            - link "Get a quote" [ref=f4e206] [cursor=pointer]:
+              - /url: /contact
+      - region "Quick enquiry" [ref=f4e207]:
+        - link "Call Comfort Nest Interiors about Greenlam Suede Laminate" [ref=f4e208] [cursor=pointer]:
+          - /url: tel:+919876543210
+          - text: Call
+        - link "WhatsApp us about Greenlam Suede Laminate (opens in new tab)" [ref=f4e211] [cursor=pointer]:
+          - /url: https://wa.me/919876543210?text=Hi%2C%20I'd%20like%20a%20quote%20for%20Greenlam%20Suede%20Laminate.%20Please%20share%20price%20and%20availability.
+          - text: WhatsApp
+  - contentinfo [ref=f4e214]:
+    - generic [ref=f4e216]:
+      - generic [ref=f4e217]:
+        - paragraph [ref=f4e218]: Comfort Nest Interiors
+        - paragraph [ref=f4e219]: Plywood, laminates, veneers and louvers from trusted brands.
+        - generic [ref=f4e220]: Shop 12, Sector 29 Market Road, Gurugram, Haryana 122001
+        - link "+91 98765 43210" [ref=f4e225] [cursor=pointer]:
+          - /url: tel:+919876543210
+        - link "hello@comfortnest-interiors.example" [ref=f4e228] [cursor=pointer]:
+          - /url: mailto:hello@comfortnest-interiors.example
+        - heading "Opening hours" [level=2] [ref=f4e232]
+        - list [ref=f4e236]:
+          - listitem [ref=f4e237]: "Monday-Saturday: 10:00 - 20:00"
+          - listitem [ref=f4e238]: "Sunday: 11:00 - 18:00"
+      - navigation "Footer" [ref=f4e239]:
+        - heading "Explore" [level=2] [ref=f4e240]
+        - list [ref=f4e241]:
+          - listitem [ref=f4e242]:
+            - link "Brands" [ref=f4e243] [cursor=pointer]:
+              - /url: /brands
+          - listitem [ref=f4e244]:
+            - link "Categories" [ref=f4e245] [cursor=pointer]:
+              - /url: /categories
+          - listitem [ref=f4e246]:
+            - link "Products" [ref=f4e247] [cursor=pointer]:
+              - /url: /products
+          - listitem [ref=f4e248]:
+            - link "Blog" [ref=f4e249] [cursor=pointer]:
+              - /url: /blog
+          - listitem [ref=f4e250]:
+            - link "About" [ref=f4e251] [cursor=pointer]:
+              - /url: /about
+          - listitem [ref=f4e252]:
+            - link "Contact" [ref=f4e253] [cursor=pointer]:
+              - /url: /contact
+      - generic [ref=f4e254]:
+        - heading "Categories" [level=2] [ref=f4e255]
+        - list [ref=f4e256]:
+          - listitem [ref=f4e257]:
+            - link "Plywood & Blockboard" [ref=f4e258] [cursor=pointer]:
+              - /url: /categories/plywood-blockboard
+          - listitem [ref=f4e259]:
+            - link "Laminates / Mica" [ref=f4e260] [cursor=pointer]:
+              - /url: /categories/laminates
+          - listitem [ref=f4e261]:
+            - link "Veneers & Panels" [ref=f4e262] [cursor=pointer]:
+              - /url: /categories/veneers-panels
+          - listitem [ref=f4e263]:
+            - link "Louvers" [ref=f4e264] [cursor=pointer]:
+              - /url: /categories/louvers
+      - generic [ref=f4e265]:
+        - heading "Brands" [level=2] [ref=f4e266]
+        - list [ref=f4e267]:
+          - listitem [ref=f4e268]:
+            - link "CenturyPly" [ref=f4e269] [cursor=pointer]:
+              - /url: /brands/centuryply
+          - listitem [ref=f4e270]:
+            - link "Greenply" [ref=f4e271] [cursor=pointer]:
+              - /url: /brands/greenply
+          - listitem [ref=f4e272]:
+            - link "Greenlam" [ref=f4e273] [cursor=pointer]:
+              - /url: /brands/greenlam
+          - listitem [ref=f4e274]:
+            - link "Merino" [ref=f4e275] [cursor=pointer]:
+              - /url: /brands/merino
+          - listitem [ref=f4e276]:
+            - link "Sunmica" [ref=f4e277] [cursor=pointer]:
+              - /url: /brands/sunmica
+          - listitem [ref=f4e278]:
+            - link "Royale Touche" [ref=f4e279] [cursor=pointer]:
+              - /url: /brands/royale-touche
+          - listitem [ref=f4e280]:
+            - link "Action TESA" [ref=f4e281] [cursor=pointer]:
+              - /url: /brands/action-tesa
+        - list [ref=f4e282]:
+          - listitem [ref=f4e283]:
+            - link "instagram" [ref=f4e284] [cursor=pointer]:
+              - /url: https://www.instagram.com/comfortnest.example
+          - listitem [ref=f4e285]:
+            - link "facebook" [ref=f4e286] [cursor=pointer]:
+              - /url: https://www.facebook.com/comfortnest.example
+          - listitem [ref=f4e287]:
+            - link "youtube" [ref=f4e288] [cursor=pointer]:
+              - /url: https://www.youtube.com/@comfortnest-example
+    - generic [ref=f4e289]: © Comfort Nest Interiors. All rights reserved.
+  - link "Chat on WhatsApp" [ref=f4e290] [cursor=pointer]:
+    - /url: https://wa.me/919876543210?text=Hi%20Comfort%20Nest%20Interiors%2C%20I%20have%20an%20enquiry.
+  - alert [ref=f4e293]
