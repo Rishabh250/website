@@ -10,7 +10,7 @@ export default function Breadcrumbs({ items }: { items: { name: string; href: st
           return (
             <li key={item.href} className="flex items-center gap-1">
               {last ? (
-                <span aria-current="page" className="font-semibold text-foreground">{item.name}</span>
+                <span aria-current="page" className="rounded-full bg-muted px-3 py-1 font-semibold text-foreground">{item.name}</span>
               ) : (
                 <>
                   <Link
@@ -19,7 +19,7 @@ export default function Breadcrumbs({ items }: { items: { name: string; href: st
                   >
                     {item.name}
                   </Link>
-                  <ChevronRight className="size-4" aria-hidden="true" />
+                  <ChevronRight className="size-4 text-stone-500" aria-hidden="true" />
                 </>
               )}
             </li>

@@ -2,6 +2,8 @@ import type { Metadata, Viewport } from "next";
 import { Cinzel, Josefin_Sans } from "next/font/google";
 import "./globals.css";
 import Header from "@/components/Header";
+import AnnouncementBar from "@/components/AnnouncementBar";
+import FloatingWhatsApp from "@/components/FloatingWhatsApp";
 import Footer from "@/components/Footer";
 import JsonLd from "@/components/JsonLd";
 import { site } from "@/lib/data";
@@ -38,9 +40,11 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         >
           Skip to content
         </a>
+        <AnnouncementBar />
         <Header />
         <main id="main" className="flex-1">{children}</main>
         <Footer />
+        <FloatingWhatsApp />
         <JsonLd data={[localBusinessLd(), websiteLd()]} />
       </body>
     </html>
