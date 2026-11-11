@@ -1,0 +1,81 @@
+[
+  {
+    "slug": "centuryply",
+    "name": "CenturyPly",
+    "tagline": "Dependable boards for everyday interiors",
+    "description": "Plywood and blockboard options for kitchens, wardrobes and furniture. Available at our store; ask for current stock and pricing.",
+    "website": "https://www.centuryply.example",
+    "categories": [
+      "plywood-blockboard"
+    ],
+    "featured": true
+  },
+  {
+    "slug": "greenply",
+    "name": "Greenply",
+    "tagline": "Boards chosen for the job",
+    "description": "Plywood and blockboard in moisture-resistant and interior grades. Available at our store; ask for current stock and pricing.",
+    "website": "https://www.greenply.example",
+    "categories": [
+      "plywood-blockboard"
+    ],
+    "featured": true
+  },
+  {
+    "slug": "greenlam",
+    "name": "Greenlam",
+    "tagline": "Surfaces with a finish for every room",
+    "description": "Decorative laminates in suede and gloss finishes. Available at our store; ask for current stock and pricing.",
+    "website": "https://www.greenlam.example",
+    "categories": [
+      "laminates"
+    ],
+    "featured": true
+  },
+  {
+    "slug": "merino",
+    "name": "Merino",
+    "tagline": "Colour and texture, made easy",
+    "description": "Matte and acrylic laminates for wardrobes and kitchens. Available at our store; ask for current stock and pricing.",
+    "website": "https://www.merino.example",
+    "categories": [
+      "laminates"
+    ],
+    "featured": true
+  },
+  {
+    "slug": "sunmica",
+    "name": "Sunmica",
+    "tagline": "Everyday surfaces and wall accents",
+    "description": "Textured laminates and fluted louver panels. Available at our store; ask for current stock and pricing.",
+    "website": "https://www.sunmica.example",
+    "categories": [
+      "laminates",
+      "louvers"
+    ],
+    "featured": true
+  },
+  {
+    "slug": "royale-touche",
+    "name": "Royale Touche",
+    "tagline": "Real wood character",
+    "description": "Natural veneers for polished, premium finishes. Available at our store; ask for current stock and pricing.",
+    "website": "https://www.royale-touche.example",
+    "categories": [
+      "veneers-panels"
+    ],
+    "featured": false
+  },
+  {
+    "slug": "action-tesa",
+    "name": "Action TESA",
+    "tagline": "Ready-to-fix panels and profiles",
+    "description": "Veneer panels and WPC louvers for quicker installs. Available at our store; ask for current stock and pricing.",
+    "website": "https://www.action-tesa.example",
+    "categories": [
+      "veneers-panels",
+      "louvers"
+    ],
+    "featured": false
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "plywood-blockboard",
+    "name": "Plywood & Blockboard",
+    "image": "/img/plywood-blockboard.svg",
+    "description": "Structural boards for carcasses, wardrobes, kitchens and furniture, in BWP, MR and blockboard grades."
+  },
+  {
+    "slug": "laminates",
+    "name": "Laminates / Mica",
+    "image": "/img/laminates.svg",
+    "description": "Decorative 1 mm laminates in suede, gloss and matte finishes for wardrobes, kitchens and wall panels."
+  },
+  {
+    "slug": "veneers-panels",
+    "name": "Veneers & Panels",
+    "image": "/img/veneers-panels.svg",
+    "description": "Natural and reconstituted wood veneers and ready decorative panels for a premium timber look."
+  },
+  {
+    "slug": "louvers",
+    "name": "Louvers",
+    "image": "/img/louvers.svg",
+    "description": "Vertical slat and fluted louver panels in wood and WPC for feature walls, partitions and ceilings."
+  }
+]

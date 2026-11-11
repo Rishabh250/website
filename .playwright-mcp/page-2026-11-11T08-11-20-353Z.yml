@@ -1,0 +1,266 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "Comfort Nest Interiors" [ref=e5] [cursor=pointer]:
+        - /url: /
+      - navigation "Primary" [ref=e6]:
+        - link "Brands" [ref=e7] [cursor=pointer]:
+          - /url: /brands
+        - link "Categories" [ref=e8] [cursor=pointer]:
+          - /url: /categories
+        - link "Products" [ref=e9] [cursor=pointer]:
+          - /url: /products
+        - link "Blog" [ref=e10] [cursor=pointer]:
+          - /url: /blog
+        - link "About" [ref=e11] [cursor=pointer]:
+          - /url: /about
+        - link "Contact" [ref=e12] [cursor=pointer]:
+          - /url: /contact
+      - link "Call" [ref=e14] [cursor=pointer]:
+        - /url: tel:+919876543210
+  - main [ref=e17]:
+    - generic [ref=e19]:
+      - heading "Plywood, laminates & veneers for every home interior" [level=1] [ref=e20]
+      - paragraph [ref=e21]: Comfort Nest Interiors stocks plywood, blockboard, laminates, veneers and louvers from leading brands, with quotes for homes, contractors and projects.
+      - generic [ref=e22]:
+        - link "Browse brands" [ref=e23] [cursor=pointer]:
+          - /url: /brands
+        - link "Get a quote" [ref=e24] [cursor=pointer]:
+          - /url: /contact
+    - generic [ref=e26]:
+      - generic [ref=e27]:
+        - paragraph [ref=e28]: Our brands
+        - heading "Brands we carry" [level=2] [ref=e29]
+        - paragraph [ref=e30]: Leading plywood, laminate and veneer brands, all available from one dealer.
+      - generic [ref=e31]:
+        - link "CenturyPly Dependable boards for everyday interiors" [ref=e32] [cursor=pointer]:
+          - /url: /brands/centuryply
+          - generic [ref=e33]: CenturyPly
+          - generic [ref=e35]: Dependable boards for everyday interiors
+        - link "Greenply Boards chosen for the job" [ref=e36] [cursor=pointer]:
+          - /url: /brands/greenply
+          - generic [ref=e37]: Greenply
+          - generic [ref=e39]: Boards chosen for the job
+        - link "Greenlam Surfaces with a finish for every room" [ref=e40] [cursor=pointer]:
+          - /url: /brands/greenlam
+          - generic [ref=e41]: Greenlam
+          - generic [ref=e43]: Surfaces with a finish for every room
+        - link "Merino Colour and texture, made easy" [ref=e44] [cursor=pointer]:
+          - /url: /brands/merino
+          - generic [ref=e45]: Merino
+          - generic [ref=e47]: Colour and texture, made easy
+        - link "Sunmica Everyday surfaces and wall accents" [ref=e48] [cursor=pointer]:
+          - /url: /brands/sunmica
+          - generic [ref=e49]: Sunmica
+          - generic [ref=e51]: Everyday surfaces and wall accents
+        - link "Royale Touche Real wood character" [ref=e52] [cursor=pointer]:
+          - /url: /brands/royale-touche
+          - generic [ref=e53]: Royale Touche
+          - generic [ref=e55]: Real wood character
+        - link "Action TESA Ready-to-fix panels and profiles" [ref=e56] [cursor=pointer]:
+          - /url: /brands/action-tesa
+          - generic [ref=e57]: Action TESA
+          - generic [ref=e59]: Ready-to-fix panels and profiles
+    - generic [ref=e61]:
+      - generic [ref=e62]:
+        - paragraph [ref=e63]: Shop by material
+        - heading "Material categories" [level=2] [ref=e64]
+      - generic [ref=e65]:
+        - link [ref=e66] [cursor=pointer]:
+          - /url: /categories/plywood-blockboard
+          - img "Plywood & Blockboard" [ref=e68]
+          - heading "Plywood & Blockboard" [level=3] [ref=e70]
+        - link [ref=e71] [cursor=pointer]:
+          - /url: /categories/laminates
+          - img "Laminates / Mica" [ref=e73]
+          - heading "Laminates / Mica" [level=3] [ref=e75]
+        - link [ref=e76] [cursor=pointer]:
+          - /url: /categories/veneers-panels
+          - img "Veneers & Panels" [ref=e78]
+          - heading "Veneers & Panels" [level=3] [ref=e80]
+        - link [ref=e81] [cursor=pointer]:
+          - /url: /categories/louvers
+          - img "Louvers" [ref=e83]
+          - heading "Louvers" [level=3] [ref=e85]
+    - generic [ref=e87]:
+      - generic [ref=e88]:
+        - paragraph [ref=e89]: Handpicked
+        - heading "Featured products" [level=2] [ref=e90]
+      - generic [ref=e91]:
+        - link [ref=e92] [cursor=pointer]:
+          - /url: /products/centuryply-bwp-plywood
+          - img "CenturyPly BWP Plywood by CenturyPly" [ref=e94]
+          - generic [ref=e95]:
+            - paragraph [ref=e96]: CenturyPly
+            - heading "CenturyPly BWP Plywood" [level=3] [ref=e97]
+            - paragraph [ref=e98]: From ₹95 / per sq ft
+        - link [ref=e99] [cursor=pointer]:
+          - /url: /products/centuryply-mr-plywood
+          - img "CenturyPly MR Plywood by CenturyPly" [ref=e101]
+          - generic [ref=e102]:
+            - paragraph [ref=e103]: CenturyPly
+            - heading "CenturyPly MR Plywood" [level=3] [ref=e104]
+            - paragraph [ref=e105]: From ₹68 / per sq ft
+        - link [ref=e106] [cursor=pointer]:
+          - /url: /products/greenply-bwp-marine-plywood
+          - img "Greenply BWP Marine Plywood by Greenply" [ref=e108]
+          - generic [ref=e109]:
+            - paragraph [ref=e110]: Greenply
+            - heading "Greenply BWP Marine Plywood" [level=3] [ref=e111]
+            - paragraph [ref=e112]: From ₹102 / per sq ft
+        - link [ref=e113] [cursor=pointer]:
+          - /url: /products/greenply-flexi-blockboard
+          - img "Greenply Flexi Blockboard by Greenply" [ref=e115]
+          - generic [ref=e116]:
+            - paragraph [ref=e117]: Greenply
+            - heading "Greenply Flexi Blockboard" [level=3] [ref=e118]
+            - paragraph [ref=e119]: From ₹72 / per sq ft
+        - link [ref=e120] [cursor=pointer]:
+          - /url: /products/greenlam-suede-laminate
+          - img "Greenlam Suede Laminate by Greenlam" [ref=e122]
+          - generic [ref=e123]:
+            - paragraph [ref=e124]: Greenlam
+            - heading "Greenlam Suede Laminate" [level=3] [ref=e125]
+            - paragraph [ref=e126]: From ₹1,150 / per sheet
+        - link [ref=e127] [cursor=pointer]:
+          - /url: /products/greenlam-gloss-laminate
+          - img "Greenlam High Gloss Laminate by Greenlam" [ref=e129]
+          - generic [ref=e130]:
+            - paragraph [ref=e131]: Greenlam
+            - heading "Greenlam High Gloss Laminate" [level=3] [ref=e132]
+            - paragraph [ref=e133]: From ₹1,350 / per sheet
+        - link [ref=e134] [cursor=pointer]:
+          - /url: /products/merino-matte-laminate
+          - img "Merino Matte Laminate by Merino" [ref=e136]
+          - generic [ref=e137]:
+            - paragraph [ref=e138]: Merino
+            - heading "Merino Matte Laminate" [level=3] [ref=e139]
+            - paragraph [ref=e140]: From ₹1,050 / per sheet
+        - link [ref=e141] [cursor=pointer]:
+          - /url: /products/merino-acrylic-laminate
+          - img "Merino Acrylic Finish Laminate by Merino" [ref=e143]
+          - generic [ref=e144]:
+            - paragraph [ref=e145]: Merino
+            - heading "Merino Acrylic Finish Laminate" [level=3] [ref=e146]
+            - paragraph [ref=e147]: From ₹1,750 / per sheet
+    - generic [ref=e149]:
+      - generic [ref=e150]:
+        - paragraph [ref=e151]: Why us
+        - heading "Why choose Comfort Nest Interiors" [level=2] [ref=e152]
+      - list [ref=e153]:
+        - listitem [ref=e154]:
+          - heading "Genuine brand stock" [level=3] [ref=e158]
+          - paragraph [ref=e159]: Brand-authorised plywood, laminates and veneers, sourced from the manufacturers you trust.
+        - listitem [ref=e160]:
+          - heading "Shades and samples in store" [level=3] [ref=e167]
+          - paragraph [ref=e168]: Browse shade cards and sample sheets in person before you choose a finish.
+        - listitem [ref=e169]:
+          - heading "Contractor and bulk pricing" [level=3] [ref=e174]
+          - paragraph [ref=e175]: Competitive rates for contractors, designers and bulk project orders.
+        - listitem [ref=e176]:
+          - heading "Delivery to site" [level=3] [ref=e182]
+          - paragraph [ref=e183]: Materials delivered to your site, so work keeps moving.
+    - generic [ref=e185]:
+      - generic [ref=e186]:
+        - paragraph [ref=e187]: Journal
+        - heading "Latest from the blog" [level=2] [ref=e188]
+      - generic [ref=e189]:
+        - link [ref=e190] [cursor=pointer]:
+          - /url: /blog/veneer-vs-laminate
+          - time [ref=e191]: 15 Oct 2026
+          - 'heading "Veneer vs laminate: which finish suits your home" [level=3] [ref=e192]'
+          - paragraph [ref=e193]: Both can give a handsome finish, but they behave differently. Compare look, cost, care and where each fits best.
+        - link [ref=e194] [cursor=pointer]:
+          - /url: /blog/how-to-choose-laminates-for-kitchen-and-wardrobes
+          - time [ref=e195]: 28 Sept 2026
+          - heading "How to choose laminates for kitchens and wardrobes" [level=3] [ref=e196]
+          - paragraph [ref=e197]: Finish, thickness and placement all matter. A short guide to choosing laminates that look good and last.
+        - link [ref=e198] [cursor=pointer]:
+          - /url: /blog/bwp-vs-mr-plywood
+          - time [ref=e199]: 12 Sept 2026
+          - 'heading "BWP vs MR plywood: which to use where" [level=3] [ref=e200]'
+          - paragraph [ref=e201]: Both are good plywood, but they are built for different conditions. Here is how to pick the right one for each part of your home.
+    - generic [ref=e203]:
+      - generic [ref=e204]:
+        - paragraph [ref=e205]: Visit us
+        - heading "Visit our store and see the samples" [level=2] [ref=e206]
+      - generic [ref=e207]:
+        - paragraph [ref=e208]: Shop 12, Sector 29 Market Road, Gurugram, Haryana, 122001
+        - list [ref=e209]:
+          - listitem [ref=e210]: "Monday-Saturday: 10:00 - 20:00"
+          - listitem [ref=e211]: "Sunday: 11:00 - 18:00"
+        - link "Get directions" [ref=e212] [cursor=pointer]:
+          - /url: /contact
+  - contentinfo [ref=e213]:
+    - generic [ref=e214]:
+      - generic [ref=e215]:
+        - paragraph [ref=e216]: Comfort Nest Interiors
+        - generic [ref=e217]: Shop 12, Sector 29 Market Road, Gurugram, Haryana 122001
+        - link "+91 98765 43210" [ref=e222] [cursor=pointer]:
+          - /url: tel:+919876543210
+        - link "hello@comfortnest-interiors.example" [ref=e225] [cursor=pointer]:
+          - /url: mailto:hello@comfortnest-interiors.example
+      - generic [ref=e229]:
+        - heading "Opening hours" [level=2] [ref=e230]
+        - list [ref=e234]:
+          - listitem [ref=e235]: "Monday-Saturday: 10:00 - 20:00"
+          - listitem [ref=e236]: "Sunday: 11:00 - 18:00"
+      - navigation "Footer" [ref=e237]:
+        - heading "Explore" [level=2] [ref=e238]
+        - list [ref=e239]:
+          - listitem [ref=e240]:
+            - link "Brands" [ref=e241] [cursor=pointer]:
+              - /url: /brands
+          - listitem [ref=e242]:
+            - link "Categories" [ref=e243] [cursor=pointer]:
+              - /url: /categories
+          - listitem [ref=e244]:
+            - link "Products" [ref=e245] [cursor=pointer]:
+              - /url: /products
+          - listitem [ref=e246]:
+            - link "Blog" [ref=e247] [cursor=pointer]:
+              - /url: /blog
+          - listitem [ref=e248]:
+            - link "About" [ref=e249] [cursor=pointer]:
+              - /url: /about
+          - listitem [ref=e250]:
+            - link "Contact" [ref=e251] [cursor=pointer]:
+              - /url: /contact
+      - generic [ref=e252]:
+        - heading "Brands" [level=2] [ref=e253]
+        - list [ref=e254]:
+          - listitem [ref=e255]:
+            - link "CenturyPly" [ref=e256] [cursor=pointer]:
+              - /url: /brands/centuryply
+          - listitem [ref=e257]:
+            - link "Greenply" [ref=e258] [cursor=pointer]:
+              - /url: /brands/greenply
+          - listitem [ref=e259]:
+            - link "Greenlam" [ref=e260] [cursor=pointer]:
+              - /url: /brands/greenlam
+          - listitem [ref=e261]:
+            - link "Merino" [ref=e262] [cursor=pointer]:
+              - /url: /brands/merino
+          - listitem [ref=e263]:
+            - link "Sunmica" [ref=e264] [cursor=pointer]:
+              - /url: /brands/sunmica
+          - listitem [ref=e265]:
+            - link "Royale Touche" [ref=e266] [cursor=pointer]:
+              - /url: /brands/royale-touche
+          - listitem [ref=e267]:
+            - link "Action TESA" [ref=e268] [cursor=pointer]:
+              - /url: /brands/action-tesa
+        - list [ref=e269]:
+          - listitem [ref=e270]:
+            - link "instagram" [ref=e271] [cursor=pointer]:
+              - /url: https://www.instagram.com/comfortnest.example
+          - listitem [ref=e272]:
+            - link "facebook" [ref=e273] [cursor=pointer]:
+              - /url: https://www.facebook.com/comfortnest.example
+          - listitem [ref=e274]:
+            - link "youtube" [ref=e275] [cursor=pointer]:
+              - /url: https://www.youtube.com/@comfortnest-example
+    - generic [ref=e276]: © Comfort Nest Interiors. All rights reserved.
+  - alert [ref=e277]

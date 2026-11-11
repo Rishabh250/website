@@ -1,0 +1,546 @@
+[
+  {
+    "slug": "centuryply-bwp-plywood",
+    "name": "CenturyPly BWP Plywood",
+    "brand": "centuryply",
+    "category": "plywood-blockboard",
+    "priceFrom": 95,
+    "priceUnit": "per sq ft",
+    "sizes": [
+      "12 mm",
+      "18 mm",
+      "19 mm"
+    ],
+    "specs": [
+      {
+        "label": "Grade",
+        "value": "BWP (boiling waterproof), IS:710 type"
+      },
+      {
+        "label": "Thickness",
+        "value": "12 / 18 / 19 mm"
+      },
+      {
+        "label": "Sheet size",
+        "value": "8 x 4 ft"
+      },
+      {
+        "label": "Core",
+        "value": "Hardwood veneer layers"
+      },
+      {
+        "label": "Warranty",
+        "value": "As per brand warranty"
+      }
+    ],
+    "features": [
+      "Suited to kitchens and bathrooms",
+      "Resists moisture and borer",
+      "Smooth sanded faces"
+    ],
+    "description": "Boiling waterproof plywood for kitchen carcasses, vanity units and areas that see moisture."
+  },
+  {
+    "slug": "centuryply-mr-plywood",
+    "name": "CenturyPly MR Plywood",
+    "brand": "centuryply",
+    "category": "plywood-blockboard",
+    "priceFrom": 68,
+    "priceUnit": "per sq ft",
+    "sizes": [
+      "6 mm",
+      "12 mm",
+      "18 mm"
+    ],
+    "specs": [
+      {
+        "label": "Grade",
+        "value": "MR (moisture resistant), IS:303 type"
+      },
+      {
+        "label": "Thickness",
+        "value": "6 / 12 / 18 mm"
+      },
+      {
+        "label": "Sheet size",
+        "value": "8 x 4 ft"
+      },
+      {
+        "label": "Core",
+        "value": "Hardwood veneer layers"
+      },
+      {
+        "label": "Warranty",
+        "value": "As per brand warranty"
+      }
+    ],
+    "features": [
+      "Economical for dry interiors",
+      "Good for wardrobes and drawers"
+    ],
+    "description": "Moisture resistant plywood for bedroom and living-room furniture away from direct water."
+  },
+  {
+    "slug": "greenply-bwp-marine-plywood",
+    "name": "Greenply BWP Marine Plywood",
+    "brand": "greenply",
+    "category": "plywood-blockboard",
+    "priceFrom": 102,
+    "priceUnit": "per sq ft",
+    "sizes": [
+      "12 mm",
+      "18 mm"
+    ],
+    "specs": [
+      {
+        "label": "Grade",
+        "value": "BWP marine, IS:710 type"
+      },
+      {
+        "label": "Thickness",
+        "value": "12 / 18 mm"
+      },
+      {
+        "label": "Sheet size",
+        "value": "8 x 4 ft"
+      },
+      {
+        "label": "Core",
+        "value": "Hardwood veneer layers"
+      },
+      {
+        "label": "Warranty",
+        "value": "As per brand warranty"
+      }
+    ],
+    "features": [
+      "High moisture resistance",
+      "Strong screw holding"
+    ],
+    "description": "Marine-grade plywood for wet kitchens, balcony units and bathroom cabinetry."
+  },
+  {
+    "slug": "greenply-flexi-blockboard",
+    "name": "Greenply Flexi Blockboard",
+    "brand": "greenply",
+    "category": "plywood-blockboard",
+    "priceFrom": 72,
+    "priceUnit": "per sq ft",
+    "sizes": [
+      "18 mm",
+      "25 mm"
+    ],
+    "specs": [
+      {
+        "label": "Grade",
+        "value": "Interior blockboard"
+      },
+      {
+        "label": "Thickness",
+        "value": "18 / 25 mm"
+      },
+      {
+        "label": "Sheet size",
+        "value": "8 x 4 ft"
+      },
+      {
+        "label": "Core",
+        "value": "Softwood battens"
+      },
+      {
+        "label": "Warranty",
+        "value": "As per brand warranty"
+      }
+    ],
+    "features": [
+      "Flat and stable for long panels",
+      "Good for doors and tabletops"
+    ],
+    "description": "Blockboard with a batten core for doors, shelves and long, flat furniture panels."
+  },
+  {
+    "slug": "greenlam-suede-laminate",
+    "name": "Greenlam Suede Laminate",
+    "brand": "greenlam",
+    "category": "laminates",
+    "priceFrom": 1150,
+    "priceUnit": "per sheet",
+    "sizes": [
+      "1 mm"
+    ],
+    "specs": [
+      {
+        "label": "Thickness",
+        "value": "1 mm"
+      },
+      {
+        "label": "Finish",
+        "value": "Suede"
+      },
+      {
+        "label": "Sheet size",
+        "value": "8 x 4 ft"
+      },
+      {
+        "label": "Use",
+        "value": "Wardrobes, shutters, panels"
+      },
+      {
+        "label": "Warranty",
+        "value": "As per brand warranty"
+      }
+    ],
+    "features": [
+      "Soft, low-glare texture",
+      "Resists fingerprints"
+    ],
+    "description": "Suede-finish decorative laminate for wardrobe shutters and living-room units."
+  },
+  {
+    "slug": "greenlam-gloss-laminate",
+    "name": "Greenlam High Gloss Laminate",
+    "brand": "greenlam",
+    "category": "laminates",
+    "priceFrom": 1350,
+    "priceUnit": "per sheet",
+    "sizes": [
+      "1 mm"
+    ],
+    "specs": [
+      {
+        "label": "Thickness",
+        "value": "1 mm"
+      },
+      {
+        "label": "Finish",
+        "value": "High gloss"
+      },
+      {
+        "label": "Sheet size",
+        "value": "8 x 4 ft"
+      },
+      {
+        "label": "Use",
+        "value": "Kitchen shutters, TV units"
+      },
+      {
+        "label": "Warranty",
+        "value": "As per brand warranty"
+      }
+    ],
+    "features": [
+      "Reflective modern look",
+      "Wipe-clean surface"
+    ],
+    "description": "Gloss laminate for contemporary kitchen shutters and feature units."
+  },
+  {
+    "slug": "merino-matte-laminate",
+    "name": "Merino Matte Laminate",
+    "brand": "merino",
+    "category": "laminates",
+    "priceFrom": 1050,
+    "priceUnit": "per sheet",
+    "sizes": [
+      "0.8 mm",
+      "1 mm"
+    ],
+    "specs": [
+      {
+        "label": "Thickness",
+        "value": "0.8 / 1 mm"
+      },
+      {
+        "label": "Finish",
+        "value": "Matte"
+      },
+      {
+        "label": "Sheet size",
+        "value": "8 x 4 ft"
+      },
+      {
+        "label": "Use",
+        "value": "Wardrobes, cabinets"
+      },
+      {
+        "label": "Warranty",
+        "value": "As per brand warranty"
+      }
+    ],
+    "features": [
+      "Wide range of colours and woodgrains",
+      "Easy to clean"
+    ],
+    "description": "Matte decorative laminate in solid colours and woodgrain designs for everyday furniture."
+  },
+  {
+    "slug": "merino-acrylic-laminate",
+    "name": "Merino Acrylic Finish Laminate",
+    "brand": "merino",
+    "category": "laminates",
+    "priceFrom": 1750,
+    "priceUnit": "per sheet",
+    "sizes": [
+      "1 mm"
+    ],
+    "specs": [
+      {
+        "label": "Thickness",
+        "value": "1 mm"
+      },
+      {
+        "label": "Finish",
+        "value": "Acrylic gloss"
+      },
+      {
+        "label": "Sheet size",
+        "value": "8 x 4 ft"
+      },
+      {
+        "label": "Use",
+        "value": "Kitchen and wardrobe shutters"
+      },
+      {
+        "label": "Warranty",
+        "value": "As per brand warranty"
+      }
+    ],
+    "features": [
+      "Deep, mirror-like shine",
+      "Pairs with edge banding"
+    ],
+    "description": "High-shine acrylic-faced laminate for premium shutters."
+  },
+  {
+    "slug": "sunmica-textured-laminate",
+    "name": "Sunmica Textured Laminate",
+    "brand": "sunmica",
+    "category": "laminates",
+    "priceFrom": 1100,
+    "priceUnit": "per sheet",
+    "sizes": [
+      "1 mm"
+    ],
+    "specs": [
+      {
+        "label": "Thickness",
+        "value": "1 mm"
+      },
+      {
+        "label": "Finish",
+        "value": "Textured / woodgrain"
+      },
+      {
+        "label": "Sheet size",
+        "value": "8 x 4 ft"
+      },
+      {
+        "label": "Use",
+        "value": "Wardrobes, tables, panels"
+      },
+      {
+        "label": "Warranty",
+        "value": "As per brand warranty"
+      }
+    ],
+    "features": [
+      "Realistic grain feel",
+      "Scratch resistant surface"
+    ],
+    "description": "Textured laminate that gives wardrobes and tables a tactile timber look."
+  },
+  {
+    "slug": "royale-touche-teak-veneer",
+    "name": "Royale Touche Natural Teak Veneer",
+    "brand": "royale-touche",
+    "category": "veneers-panels",
+    "priceFrom": 28,
+    "priceUnit": "per sq ft",
+    "sizes": [
+      "0.5 mm"
+    ],
+    "specs": [
+      {
+        "label": "Thickness",
+        "value": "0.5 mm"
+      },
+      {
+        "label": "Species",
+        "value": "Natural teak"
+      },
+      {
+        "label": "Sheet size",
+        "value": "8 x 4 ft"
+      },
+      {
+        "label": "Finish",
+        "value": "Raw, ready to polish"
+      },
+      {
+        "label": "Warranty",
+        "value": "As per brand warranty"
+      }
+    ],
+    "features": [
+      "Real wood grain",
+      "Takes PU and melamine polish"
+    ],
+    "description": "Natural teak veneer for polished doors, panels and furniture faces."
+  },
+  {
+    "slug": "royale-touche-walnut-veneer",
+    "name": "Royale Touche Walnut Veneer",
+    "brand": "royale-touche",
+    "category": "veneers-panels",
+    "priceFrom": 36,
+    "priceUnit": "per sq ft",
+    "sizes": [
+      "0.5 mm"
+    ],
+    "specs": [
+      {
+        "label": "Thickness",
+        "value": "0.5 mm"
+      },
+      {
+        "label": "Species",
+        "value": "Walnut"
+      },
+      {
+        "label": "Sheet size",
+        "value": "8 x 4 ft"
+      },
+      {
+        "label": "Finish",
+        "value": "Raw, ready to polish"
+      },
+      {
+        "label": "Warranty",
+        "value": "As per brand warranty"
+      }
+    ],
+    "features": [
+      "Rich dark tone",
+      "Suits premium interiors"
+    ],
+    "description": "Walnut veneer for statement walls, wardrobes and study furniture."
+  },
+  {
+    "slug": "action-tesa-oak-veneer-panel",
+    "name": "Action TESA Oak Veneer Panel",
+    "brand": "action-tesa",
+    "category": "veneers-panels",
+    "priceFrom": 85,
+    "priceUnit": "per sq ft",
+    "sizes": [
+      "8 mm",
+      "12 mm",
+      "18 mm"
+    ],
+    "specs": [
+      {
+        "label": "Thickness",
+        "value": "8 / 12 / 18 mm"
+      },
+      {
+        "label": "Species",
+        "value": "Oak veneer on ply base"
+      },
+      {
+        "label": "Sheet size",
+        "value": "8 x 4 ft"
+      },
+      {
+        "label": "Finish",
+        "value": "Pre-finished"
+      },
+      {
+        "label": "Warranty",
+        "value": "As per brand warranty"
+      }
+    ],
+    "features": [
+      "Ready to fix, no separate veneering",
+      "Consistent grain"
+    ],
+    "description": "Pre-pressed oak veneer panel on a plywood base for quick, tidy installation."
+  },
+  {
+    "slug": "action-tesa-wpc-louver",
+    "name": "Action TESA WPC Louver",
+    "brand": "action-tesa",
+    "category": "louvers",
+    "priceFrom": 120,
+    "priceUnit": "per running ft",
+    "sizes": [
+      "150 x 12 mm",
+      "200 x 20 mm"
+    ],
+    "specs": [
+      {
+        "label": "Material",
+        "value": "WPC (wood plastic composite)"
+      },
+      {
+        "label": "Profile size",
+        "value": "150 x 12 / 200 x 20 mm"
+      },
+      {
+        "label": "Length",
+        "value": "8 ft"
+      },
+      {
+        "label": "Finish",
+        "value": "Woodgrain film"
+      },
+      {
+        "label": "Warranty",
+        "value": "As per brand warranty"
+      }
+    ],
+    "features": [
+      "Moisture and termite resistant",
+      "Low maintenance"
+    ],
+    "description": "WPC louver profiles for feature walls, partitions and ceilings."
+  },
+  {
+    "slug": "sunmica-wood-fluted-louver",
+    "name": "Sunmica Wood Fluted Louver Panel",
+    "brand": "sunmica",
+    "category": "louvers",
+    "priceFrom": 165,
+    "priceUnit": "per sq ft",
+    "sizes": [
+      "8 x 1 ft",
+      "8 x 4 ft"
+    ],
+    "specs": [
+      {
+        "label": "Material",
+        "value": "Veneer-faced wood panel"
+      },
+      {
+        "label": "Profile",
+        "value": "Fluted vertical slats"
+      },
+      {
+        "label": "Panel size",
+        "value": "8 x 1 / 8 x 4 ft"
+      },
+      {
+        "label": "Finish",
+        "value": "Pre-finished"
+      },
+      {
+        "label": "Warranty",
+        "value": "As per brand warranty"
+      }
+    ],
+    "features": [
+      "Adds depth to plain walls",
+      "Easy to fix with adhesive and pins"
+    ],
+    "description": "Fluted wood louver panels for TV backdrops, reception walls and headboards."
+  }
+]
